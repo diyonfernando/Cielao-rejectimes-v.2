@@ -138,3 +138,10 @@ Example response:
   "progress": 70,
   "description": "React Native course"
 }
+
+
+<img width="1725" height="1002" alt="Screenshot 2026-09-11 at 1 56 53 PM" src="https://github.com/user-attachments/assets/1df32a73-c415-463c-953c-88014f922e21" />
+
+<img width="1728" height="1003" alt="Screenshot 2026-09-11 at 1 57 10 PM" src="https://github.com/user-attachments/assets/a9c7cd5b-4cd6-44f3-9767-b66e4551ed37" />
+
+
